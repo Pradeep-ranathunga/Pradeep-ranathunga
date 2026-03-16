@@ -24,12 +24,12 @@ I am a passionate Software Engineering student with experience in mobile and web
 
 ### 📈 GitHub Stats
 
-![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradeepranathunga2021&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepranathunga2021&layout=compact&theme=dark)
+![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradeep-ranathunga&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-ranathunga&layout=compact&theme=dark)
 
 ---
 
 ### 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradeep-ranathunga-161aa9373)
-[![Location](https://img.shields.io/badge/Colombo-Sri%20Lanka-🇱🇰?style=for-the-badge&logo=google-maps&logoColor=white&color=ff69b4)](https://goo.gl/maps/YOUR_GOOGLE_MAPS_LINK_IF_YOU_WANT)
+[![Location](https://img.shields.io/badge/Colombo-Sri%20Lanka-🇱🇰?style=for-the-badge&logo=google-maps&logoColor=white&color=ff69b4)](https://github.com/pradeep-ranathunga)
